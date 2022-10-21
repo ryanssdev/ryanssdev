@@ -1,6 +1,5 @@
 <p aling="center">
-  <img width="900" src=e2aec645e3f805bfeef5468bc9bf3a34.gif
+  <img width="900" src=68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966.gif
 <p>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=80EB1E=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Marcelo+Ryan;Tenho+19+anos;Eu+Moro+no+Brasil,+MG;Estudo+programação+;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
